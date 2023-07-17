@@ -1,0 +1,11 @@
+{
+  "name": "FintraDao token",
+  "website": "http://fintradao.io/",
+  "description": " FinTraDAO is committed to redefining the way financial services",
+  "explorer": "https://bscscan.com/token/0x99c8E0E1cb0d8CDb4c585Be3A2a29C2eDD5a4B4d",
+  "type": "BEP20",
+  "symbol": "FDC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x99c8E0E1cb0d8CDb4c585Be3A2a29C2eDD5a4B4d"
+}
